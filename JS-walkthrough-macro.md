@@ -168,7 +168,9 @@
       * run function addCardContent() twice
       
 * function showDiscography(r)
-...
+   * **Display section for discography**
+   * _parameters:_
+      * 'r': result data for ...
 
 # How it all works:
 
